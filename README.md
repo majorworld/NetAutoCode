@@ -1,6 +1,8 @@
 # NetAutoCode,最新版本1.1
 自动生成C#实体类和SQL Server的增删改查的存储过程
 
+![自动生成实体类](https://z3.ax1x.com/2021/06/04/2YwiTS.png)
+
 # 注意
 需要连接SQL Server才能使用
 
