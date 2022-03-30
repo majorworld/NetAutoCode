@@ -1,4 +1,4 @@
-# NetAutoCode,最新版本1.2
+# NetAutoCode,最新版本1.3
 自动生成C#实体类和SQL Server的增删改查的存储过程
 
 具体介绍：https://meta.appinn.net/t/topic/23913
@@ -14,6 +14,10 @@
 
 
 # 更新
+
+## 1.3版本变化
+添加了多个数据库的账号密码单独保存功能
+
 ## 1.2版本变化
 #### 1、添加了配置文件，加密保存服务器密码等数据
 #### 2、添加了nvarchar、decimal等数据类型在存储过程定义时的精度控制，例如生成@longitude decimal(10,6) = 116.397128而不是@longitude decimal = 116.397128
